@@ -16,7 +16,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          Vortexmind-patch-2 Another Branch {' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
